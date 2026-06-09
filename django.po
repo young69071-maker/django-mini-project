@@ -1,377 +1,419 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Carlos Muñoz <cmuozdiaz@outlook.com>, 2015
-# Claude Paroz <claude@2xlibre.net>, 2020
+# Michael Wolf <milupo@sorbzilla.de>, 2016-2026
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-19 20:23+0200\n"
-"PO-Revision-Date: 2020-07-14 21:42+0000\n"
-"Last-Translator: Transifex Bot <>\n"
-"Language-Team: Spanish (Colombia) (http://www.transifex.com/django/django/"
-"language/es_CO/)\n"
+"POT-Creation-Date: 2025-09-17 18:23-0300\n"
+"PO-Revision-Date: 2026-03-09 06:49+0000\n"
+"Last-Translator: Michael Wolf <milupo@sorbzilla.de>, 2016-2026\n"
+"Language-Team: Upper Sorbian (http://app.transifex.com/django/django/"
+"language/hsb/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es_CO\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: hsb\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3);\n"
 
 msgid "Afrikaans"
-msgstr "Afrikáans"
+msgstr "Afrikaanšćina"
 
 msgid "Arabic"
-msgstr "Árabe"
+msgstr "Arabšćina"
 
 msgid "Algerian Arabic"
-msgstr ""
+msgstr "Algeriska arabšćina"
 
 msgid "Asturian"
-msgstr "Asturiano"
+msgstr "Asturišćina"
 
 msgid "Azerbaijani"
-msgstr "Azerí"
+msgstr "Azerbajdźanšćina"
 
 msgid "Bulgarian"
-msgstr "Búlgaro"
+msgstr "Bołharšćina"
 
 msgid "Belarusian"
-msgstr "Bielorruso"
+msgstr "Běłorušćina"
 
 msgid "Bengali"
-msgstr "Bengalí"
+msgstr "Bengalšćina"
 
 msgid "Breton"
-msgstr "Bretón"
+msgstr "Bretonšćina"
 
 msgid "Bosnian"
-msgstr "Bosnio"
+msgstr "Bosnišćina"
 
 msgid "Catalan"
-msgstr "Catalán"
+msgstr "Katalanšćina"
+
+msgid "Central Kurdish (Sorani)"
+msgstr "Centralna kurdišćina (Sorani)"
 
 msgid "Czech"
-msgstr "Checo"
+msgstr "Čěšćina"
 
 msgid "Welsh"
-msgstr "Galés"
+msgstr "Walizišćina"
 
 msgid "Danish"
-msgstr "Danés"
+msgstr "Danšćina"
 
 msgid "German"
-msgstr "Alemán"
+msgstr "Němčina"
 
 msgid "Lower Sorbian"
-msgstr ""
+msgstr "Delnjoserbšćina"
 
 msgid "Greek"
-msgstr "Griego"
+msgstr "Grjekšćina"
 
 msgid "English"
-msgstr "Inglés"
+msgstr "Jendźelšćina"
 
 msgid "Australian English"
-msgstr "Inglés Australiano"
+msgstr "Awstralska jendźelšćina"
 
 msgid "British English"
-msgstr "Inglés Británico"
+msgstr "Britiska jendźelšćina"
 
 msgid "Esperanto"
 msgstr "Esperanto"
 
 msgid "Spanish"
-msgstr "Español"
+msgstr "Španišćina"
 
 msgid "Argentinian Spanish"
-msgstr "Español de Argentina"
+msgstr "Argentinska španišćina"
 
 msgid "Colombian Spanish"
-msgstr ""
+msgstr "Kolumbiska španišćina"
 
 msgid "Mexican Spanish"
-msgstr "Español de México"
+msgstr "Mexiska španišćina"
 
 msgid "Nicaraguan Spanish"
-msgstr "Español de Nicaragua"
+msgstr "Nikaraguaska španišćina"
 
 msgid "Venezuelan Spanish"
-msgstr "Español venezolano"
+msgstr "Venezuelska španišćina"
 
 msgid "Estonian"
-msgstr "Estonio"
+msgstr "Estišćina"
 
 msgid "Basque"
-msgstr "Vasco"
+msgstr "Baskišćina"
 
 msgid "Persian"
-msgstr "Persa"
+msgstr "Persišćina"
 
 msgid "Finnish"
-msgstr "Finés"
+msgstr "Finšćina"
 
 msgid "French"
-msgstr "Francés"
+msgstr "Francošćina"
 
 msgid "Frisian"
-msgstr "Frisón"
+msgstr "Frizišćina"
 
 msgid "Irish"
-msgstr "Irlandés"
+msgstr "Irišćina"
 
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "Šotiska gaelšćina"
 
 msgid "Galician"
-msgstr "Gallego"
+msgstr "Galicišćina"
 
 msgid "Hebrew"
-msgstr "Hebreo"
+msgstr "Hebrejšćina"
 
 msgid "Hindi"
-msgstr "Hindi"
+msgstr "Hindišćina"
 
 msgid "Croatian"
-msgstr "Croata"
+msgstr "Chorwatšćina"
 
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Hornjoserbšćina"
+
+msgid "Haitian Creole"
+msgstr "Haitiska kreolšćina"
 
 msgid "Hungarian"
-msgstr "Húngaro"
+msgstr "Madźaršćina"
 
 msgid "Armenian"
-msgstr ""
+msgstr "Armenšćina"
 
 msgid "Interlingua"
 msgstr "Interlingua"
 
 msgid "Indonesian"
-msgstr "Indonesio"
+msgstr "Indonezišćina"
 
 msgid "Igbo"
-msgstr ""
+msgstr "Igbo"
 
 msgid "Ido"
 msgstr "Ido"
 
 msgid "Icelandic"
-msgstr "Islandés"
+msgstr "Islandšćina"
 
 msgid "Italian"
-msgstr "Italiano"
+msgstr "Italšćina"
 
 msgid "Japanese"
-msgstr "Japonés"
+msgstr "Japanšćina"
 
 msgid "Georgian"
-msgstr "Georgiano"
+msgstr "Georgišćina"
 
 msgid "Kabyle"
-msgstr ""
+msgstr "Kabylšćina"
 
 msgid "Kazakh"
-msgstr "Kazajo"
+msgstr "Kazachšćina"
 
 msgid "Khmer"
-msgstr "Khmer"
+msgstr "Khmeršćina"
 
 msgid "Kannada"
-msgstr "Kannada"
+msgstr "Kannadšćina"
 
 msgid "Korean"
-msgstr "Koreano"
+msgstr "Korejšćina"
 
 msgid "Kyrgyz"
-msgstr ""
+msgstr "Kirgišćina"
 
 msgid "Luxembourgish"
-msgstr "Luxenburgués"
+msgstr "Luxemburgšćina"
 
 msgid "Lithuanian"
-msgstr "Lituano"
+msgstr "Litawšćina"
 
 msgid "Latvian"
-msgstr "Letón"
+msgstr "Letišćina"
 
 msgid "Macedonian"
-msgstr "Macedonio"
+msgstr "Makedonšćina"
 
 msgid "Malayalam"
-msgstr "Malayalam"
+msgstr "Malajalam"
 
 msgid "Mongolian"
-msgstr "Mongol"
+msgstr "Mongolšćina"
 
 msgid "Marathi"
-msgstr "Maratí"
+msgstr "Marathišćina"
+
+msgid "Malay"
+msgstr "Malajšćina"
 
 msgid "Burmese"
-msgstr "Birmano"
+msgstr "Myanmaršćina"
 
 msgid "Norwegian Bokmål"
-msgstr ""
+msgstr "Norwegski bokmål"
 
 msgid "Nepali"
-msgstr "Nepalí"
+msgstr "Nepalšćina"
 
 msgid "Dutch"
-msgstr "Holandés"
+msgstr "Nižozemšćina"
 
 msgid "Norwegian Nynorsk"
-msgstr "Nynorsk"
+msgstr "Norwegski nynorsk"
 
 msgid "Ossetic"
-msgstr "Osetio"
+msgstr "Osetšćina"
 
 msgid "Punjabi"
-msgstr "Panyabí"
+msgstr "Pundźabišćina"
 
 msgid "Polish"
-msgstr "Polaco"
+msgstr "Pólšćina"
 
 msgid "Portuguese"
-msgstr "Portugués"
+msgstr "Portugalšćina"
 
 msgid "Brazilian Portuguese"
-msgstr "Portugués brasileño"
+msgstr "Brazilska portugalšćina"
 
 msgid "Romanian"
-msgstr "Rumano"
+msgstr "Rumunšćina"
 
 msgid "Russian"
-msgstr "Ruso"
+msgstr "Rušćina"
 
 msgid "Slovak"
-msgstr "Eslovaco"
+msgstr "Słowakšćina"
 
 msgid "Slovenian"
-msgstr "Esloveno"
+msgstr "Słowjenšćina"
 
 msgid "Albanian"
-msgstr "Albanés"
+msgstr "Albanšćina"
 
 msgid "Serbian"
-msgstr "Serbio"
+msgstr "Serbišćina"
 
 msgid "Serbian Latin"
-msgstr "Serbio latino"
+msgstr "Serbšćina, łaćonska"
 
 msgid "Swedish"
-msgstr "Sueco"
+msgstr "Šwedšćina"
 
 msgid "Swahili"
-msgstr "Suajili"
+msgstr "Suahelšćina"
 
 msgid "Tamil"
-msgstr "Tamil"
+msgstr "Tamilšćina"
 
 msgid "Telugu"
-msgstr "Telugu"
+msgstr "Telugušćina"
 
 msgid "Tajik"
-msgstr ""
+msgstr "Tadźikišćina"
 
 msgid "Thai"
-msgstr "Tailandés"
+msgstr "Thaišćina"
 
 msgid "Turkmen"
-msgstr ""
+msgstr "Turkmenšćina"
 
 msgid "Turkish"
-msgstr "Turco"
+msgstr "Turkowšćina"
 
 msgid "Tatar"
-msgstr "Tártaro"
+msgstr "Tataršćina"
 
 msgid "Udmurt"
-msgstr "Udmurt"
+msgstr "Udmurtšćina"
+
+msgid "Uyghur"
+msgstr "Ujguršćina"
 
 msgid "Ukrainian"
-msgstr "Ucraniano"
+msgstr "Ukrainšćina"
 
 msgid "Urdu"
-msgstr "Urdu"
+msgstr "Urdušćina"
 
 msgid "Uzbek"
-msgstr ""
+msgstr "Uzbekšćina"
 
 msgid "Vietnamese"
-msgstr "Vietnamita"
+msgstr "Vietnamšćina"
 
 msgid "Simplified Chinese"
-msgstr "Chino simplificado"
+msgstr "Zjednorjene chinšćina"
 
 msgid "Traditional Chinese"
-msgstr "Chino tradicional"
+msgstr "Tradicionalna chinšćina"
 
 msgid "Messages"
-msgstr "Mensajes"
+msgstr "Powěsće"
 
 msgid "Site Maps"
-msgstr "Mapas del sitio"
+msgstr "Přehlady sydła"
 
 msgid "Static Files"
-msgstr "Archivos estáticos"
+msgstr "Statiske dataje"
 
 msgid "Syndication"
-msgstr "Sindicación"
+msgstr "Syndikacija"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+msgid "…"
+msgstr "…"
 
 msgid "That page number is not an integer"
-msgstr ""
+msgstr "Tute čisko strony cyła ličba njeje."
 
 msgid "That page number is less than 1"
-msgstr ""
+msgstr "Tute čisło strony je mjeńše hač 1."
 
 msgid "That page contains no results"
-msgstr ""
+msgstr "Tuta strona wuslědki njewobsahuje"
 
 msgid "Enter a valid value."
-msgstr "Ingrese un valor válido."
+msgstr "Zapodajće płaćiwu hódnotu."
+
+msgid "Enter a valid domain name."
+msgstr "Zapodajće płaćiwe domenowe mjeno."
 
 msgid "Enter a valid URL."
-msgstr "Ingrese una URL válida."
+msgstr "Zapodajće płaćiwy URL."
 
 msgid "Enter a valid integer."
-msgstr "Ingrese un entero válido."
+msgstr "Zapodajće płaćiwu cyłu ličbu."
 
 msgid "Enter a valid email address."
-msgstr "Ingrese una dirección de correo electrónico válida."
+msgstr "Zapodajće płaćiwu e-mejlowu adresu."
 
 #. Translators: "letters" means latin letters: a-z and A-Z.
 msgid ""
 "Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
 msgstr ""
+"Zapodajće płaćiwe adresowe mjeno, kotrež jenož pismiki, ličby, podsmužki abo "
+"wjazawki wobsahuje."
 
 msgid ""
 "Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
 "hyphens."
 msgstr ""
+"Zapodajće płaćiwe „adresowe mjeno“, kotrež jenož pismiki, ličby, podsmužki "
+"abo wjazawki wobsahuje."
 
-msgid "Enter a valid IPv4 address."
-msgstr "Ingrese una dirección IPv4 válida."
+#, python-format
+msgid "Enter a valid %(protocol)s address."
+msgstr "Zapodajće płaćiwu %(protocol)s-adresu."
 
-msgid "Enter a valid IPv6 address."
-msgstr "Ingrese una dirección IPv6 válida."
+msgid "IPv4"
+msgstr "IPv4"
 
-msgid "Enter a valid IPv4 or IPv6 address."
-msgstr "Ingrese una dirección IPv4 o IPv6 válida."
+msgid "IPv6"
+msgstr "IPv6"
+
+msgid "IPv4 or IPv6"
+msgstr "IPv4 abo IPv6"
 
 msgid "Enter only digits separated by commas."
-msgstr "Ingrese solo números separados por comas."
+msgstr "Zapodajće jenož přez komy dźělene cyfry,"
 
 #, python-format
 msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr "Asegúrese de que este valor es %(limit_value)s  (es %(show_value)s )."
+msgstr "Zawěsćće, zo tuta hódnota je %(limit_value)s (je %(show_value)s)."
 
 #, python-format
 msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr "Asegúrese de que este valor sea menor o igual a %(limit_value)s."
+msgstr "Zawěsćće, zo hódnota je mjeńša hač abo runja %(limit_value)s."
 
 #, python-format
 msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr "Asegúrese de que este valor sea mayor o igual a %(limit_value)s."
+msgstr "Zawěsćće, zo tuta hódnota je wjetša hač abo runja %(limit_value)s."
+
+#, python-format
+msgid "Ensure this value is a multiple of step size %(limit_value)s."
+msgstr ""
+"Zawěsćće, zo tuta hódnota je množina kročeloweje wulkosće %(limit_value)s."
+
+#, python-format
+msgid ""
+"Ensure this value is a multiple of step size %(limit_value)s, starting from "
+"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
+msgstr ""
+"Zawěsćće, zo tuta hódnota je mnoho króć kročeloweje wulkosće "
+"%(limit_value)s, započinajo z %(offset)s, na př. %(offset)s, "
+"%(valid_value1)s, %(valid_value2)s a tak dale."
 
 #, python-format
 msgid ""
@@ -381,11 +423,17 @@ msgid_plural ""
 "Ensure this value has at least %(limit_value)d characters (it has "
 "%(show_value)d)."
 msgstr[0] ""
-"Asegúrese de que este valor tenga como mínimo %(limit_value)d carácter "
-"(tiene %(show_value)d)."
+"Zawěsćće, zo tuta hódnota ma znajmjeńša %(limit_value)d znamješko (ma "
+"%(show_value)d)."
 msgstr[1] ""
-"Asegúrese de que este valor tenga como mínimo %(limit_value)d caracteres "
-"(tiene %(show_value)d)."
+"Zawěsćće, zo tuta hódnota ma znajmjeńša %(limit_value)d znamješce (ma "
+"%(show_value)d)."
+msgstr[2] ""
+"Zawěsćće, zo tuta hódnota ma znajmjeńša %(limit_value)d znamješka (ma "
+"%(show_value)d)."
+msgstr[3] ""
+"Zawěsćće, zo tuta hódnota ma znajmjeńša %(limit_value)d znamješkow (ma "
+"%(show_value)d)."
 
 #, python-format
 msgid ""
@@ -395,336 +443,373 @@ msgid_plural ""
 "Ensure this value has at most %(limit_value)d characters (it has "
 "%(show_value)d)."
 msgstr[0] ""
-"Asegúrese de que este valor tenga como máximo %(limit_value)d carácter "
-"(tiene %(show_value)d)."
+"Zawěsćće, zo tuta hódnota ma maksimalnje %(limit_value)d znamješko (ima "
+"%(show_value)d)."
 msgstr[1] ""
-"Asegúrese de que este valor tenga como máximo %(limit_value)d caracteres "
-"(tiene %(show_value)d)."
+"Zawěsćće, zo tuta hódnota ma maksimalnje %(limit_value)d znamješce (ima "
+"%(show_value)d)."
+msgstr[2] ""
+"Zawěsćće, zo tuta hódnota ma maksimalnje %(limit_value)d znamješka (ima "
+"%(show_value)d)."
+msgstr[3] ""
+"Zawěsćće, zo tuta hódnota ma maksimalnje %(limit_value)d znamješkow (ima "
+"%(show_value)d)."
 
 msgid "Enter a number."
-msgstr "Ingrese un número."
+msgstr "Zapodajće ličbu."
 
 #, python-format
 msgid "Ensure that there are no more than %(max)s digit in total."
 msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] "Asegúrese de que no hayan mas de %(max)s dígito en total."
-msgstr[1] "Asegúrese de que no hayan mas de %(max)s dígitos en total."
+msgstr[0] "Zawěsćće, zo njeje wjace hač %(max)s cyfry dohromady."
+msgstr[1] "Zawěsćće, zo njeje wjace hač %(max)s cyfrow dohromady."
+msgstr[2] "Zawěsćće, zo njeje wjace hač %(max)s cyfrow dohromady."
+msgstr[3] "Zawěsćće, zo njeje wjace hač %(max)s cyfrow dohromady."
 
 #, python-format
 msgid "Ensure that there are no more than %(max)s decimal place."
 msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] "Asegúrese de que no hayan más de %(max)s decimal."
-msgstr[1] "Asegúrese de que no hayan más de %(max)s decimales."
+msgstr[0] "Zawěsćće, zo njeje wjace hač %(max)s decimalneho městna."
+msgstr[1] "Zawěsćće, zo njeje wjace hač %(max)s decimalneju městnow."
+msgstr[2] "Zawěsćće, zo njeje wjace hač %(max)s decimalnych městnow."
+msgstr[3] "Zawěsćće, zo njeje wjace hač %(max)s decimalnych městnow."
 
 #, python-format
 msgid ""
 "Ensure that there are no more than %(max)s digit before the decimal point."
 msgid_plural ""
 "Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-"Asegúrese de que no hayan más de %(max)s dígito antes del punto decimal."
-msgstr[1] ""
-"Asegúrese de que no hayan más de %(max)s dígitos antes del punto decimal"
+msgstr[0] "Zawěsćće, zo njeje wjace hač %(max)s cyfry před decimalnej komu."
+msgstr[1] "Zawěsćće, zo njeje wjace hač %(max)s cyfrow před decimalnej komu."
+msgstr[2] "Zawěsćće, zo njeje wjace hač %(max)s cyfrow před decimalnej komu."
+msgstr[3] "Zawěsćće, zo njeje wjace hač %(max)s cyfrow před decimalnej komu."
 
 #, python-format
 msgid ""
 "File extension “%(extension)s” is not allowed. Allowed extensions are: "
 "%(allowed_extensions)s."
 msgstr ""
+"Datajowy sufiks ' %(extension)s' dowoleny njeje. Dowolene sufiksy su: "
+"%(allowed_extensions)s."
 
 msgid "Null characters are not allowed."
-msgstr ""
+msgstr "Prózdne znamješka dowolene njejsu."
 
 msgid "and"
-msgstr "y"
+msgstr "a"
 
 #, python-format
 msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr "Ya existe un/a %(model_name)s con este/a %(field_labels)s."
+msgstr "%(model_name)s z tutym %(field_labels)s hižo eksistuje."
+
+#, python-format
+msgid "Constraint “%(name)s” is violated."
+msgstr "Wobmjezowanje \"%(name)s\" je překročene."
 
 #, python-format
 msgid "Value %(value)r is not a valid choice."
-msgstr "Valor %(value)r no es una opción válida."
+msgstr "Hódnota %(value)r płaćiwa wólba njeje."
 
 msgid "This field cannot be null."
-msgstr "Este campo no puede ser nulo."
+msgstr "Tute polo njesmě nul być."
 
 msgid "This field cannot be blank."
-msgstr "Este campo no puede estar en blanco."
+msgstr "Tute polo njesmě prózdne być."
 
 #, python-format
 msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "Ya existe un/a %(model_name)s con este/a %(field_label)s."
+msgstr "%(model_name)s z tutym %(field_label)s hižo eksistuje."
 
-#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
-#. Eg: "Title must be unique for pub_date year"
+#. Translators: The 'lookup_type' is one of 'date', 'year' or
+#. 'month'. Eg: "Title must be unique for pub_date year"
 #, python-format
 msgid ""
 "%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
 msgstr ""
-"%(field_label)s debe ser único para %(date_field_label)s %(lookup_type)s."
+"%(field_label)s dyrbi za %(date_field_label)s %(lookup_type)s jónkróćne być."
 
 #, python-format
 msgid "Field of type: %(field_type)s"
-msgstr "Tipo de campo: %(field_type)s"
+msgstr "Polo typa: %(field_type)s"
 
 #, python-format
 msgid "“%(value)s” value must be either True or False."
-msgstr ""
+msgstr "Hódnota „%(value)s“ dyrbi pak True pak False być."
 
 #, python-format
 msgid "“%(value)s” value must be either True, False, or None."
-msgstr ""
+msgstr "Hódnota „%(value)s“ dyrbi pak True, False pak None być."
 
 msgid "Boolean (Either True or False)"
-msgstr "Booleano (Verdadero o Falso)"
+msgstr "Boolean (pak True pak False)"
 
 #, python-format
 msgid "String (up to %(max_length)s)"
-msgstr "Cadena (máximo %(max_length)s)"
+msgstr "Znamješkowy rjećazk (hač  %(max_length)s)"
+
+msgid "String (unlimited)"
+msgstr "Znamješkowy rjećazk (njewobmjezowany)"
 
 msgid "Comma-separated integers"
-msgstr "Enteros separados por comas"
+msgstr "Cyłe ličby dźělene přez komu"
 
 #, python-format
 msgid ""
 "“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
 "format."
 msgstr ""
+"Hódnota „%(value)s“ ma njepłaćiwy datumowy format. Dyrbi we formaće "
+"DD.MM.YYYY być."
 
 #, python-format
 msgid ""
 "“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
 "date."
 msgstr ""
+"Hódnota „%(value)s“ ma korektny format (DD.MM.YYYY), ale je njepłaćiwy datum."
 
 msgid "Date (without time)"
-msgstr "Fecha (sin hora)"
+msgstr "Datum (bjez časa)"
 
 #, python-format
 msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
 msgstr ""
+"Hódnota „%(value)s“ ma njepłaćiwy format. Dyrbi we formaće DD.MM.YYYY "
+"HH:MM[:ss[.uuuuuu]][TZ] być."
 
 #, python-format
 msgid ""
 "“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
 "[TZ]) but it is an invalid date/time."
 msgstr ""
+"Hódnota „%(value)s“ ma korektny format (DD.MM.YYYY HH:MM[:ss[.uuuuuu]][TZ]), "
+"ale je njepłaćiwy datum/čas."
 
 msgid "Date (with time)"
-msgstr "Fecha (con hora)"
+msgstr "Datum (z časom)"
 
 #, python-format
 msgid "“%(value)s” value must be a decimal number."
-msgstr ""
+msgstr "Hódnota „%(value)s“ dyrbi decimalna ličba być."
 
 msgid "Decimal number"
-msgstr "Número decimal"
+msgstr "Decimalna ličba"
 
 #, python-format
 msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
 msgstr ""
+"Hódnota „%(value)s“ ma njepłaćiwy format. Dyrbi w formaće [DD] [HH:"
+"[MM:]]ss[.uuuuuu] być."
 
 msgid "Duration"
-msgstr "Duración"
+msgstr "Traće"
 
 msgid "Email address"
-msgstr "Dirección de correo electrónico"
+msgstr "E-mejlowa adresa"
 
 msgid "File path"
-msgstr "Ruta de archivo"
+msgstr "Datajowa šćežka"
 
 #, python-format
 msgid "“%(value)s” value must be a float."
-msgstr ""
+msgstr "Hódnota „%(value)s“ dyrbi decimalna ličba być."
 
 msgid "Floating point number"
-msgstr "Número de punto flotante"
+msgstr "Komowa ličba typa float"
 
 #, python-format
 msgid "“%(value)s” value must be an integer."
-msgstr ""
+msgstr "Hódnota „%(value)s“ dyrbi integer być."
 
 msgid "Integer"
-msgstr "Entero"
+msgstr "Integer"
 
 msgid "Big (8 byte) integer"
-msgstr "Entero grande (8 bytes)"
+msgstr "Big (8 byte) integer"
+
+msgid "Small integer"
+msgstr "Mała cyła ličba"
 
 msgid "IPv4 address"
-msgstr "Dirección IPv4"
+msgstr "IPv4-adresa"
 
 msgid "IP address"
-msgstr "Dirección IP"
+msgstr "IP-adresa"
 
 #, python-format
 msgid "“%(value)s” value must be either None, True or False."
-msgstr ""
+msgstr "Hódnota „%(value)s“ dyrbi pak None, True pak False być."
 
 msgid "Boolean (Either True, False or None)"
-msgstr "Booleano (Verdadero, Falso o Nulo)"
+msgstr "Boolean (pak True, False pak None)"
 
 msgid "Positive big integer"
-msgstr ""
+msgstr "Pozitiwna wulka cyła ličba"
 
 msgid "Positive integer"
-msgstr "Entero positivo"
+msgstr "Pozitiwna cyła ličba"
 
 msgid "Positive small integer"
-msgstr "Entero positivo pequeño"
+msgstr "Pozitiwna mała cyła ličba"
 
 #, python-format
 msgid "Slug (up to %(max_length)s)"
-msgstr "Slug (hasta %(max_length)s)"
-
-msgid "Small integer"
-msgstr "Entero pequeño"
+msgstr "Adresowe mjeno (hač %(max_length)s)"
 
 msgid "Text"
-msgstr "Texto"
+msgstr "Tekst"
 
 #, python-format
 msgid ""
 "“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
 "format."
 msgstr ""
+"Hódnota „%(value)s“ ma njepłaćiwy format. Dyrbi we formaće "
+"HH:MM[:ss[.uuuuuu]] być."
 
 #, python-format
 msgid ""
 "“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
 "invalid time."
 msgstr ""
+"Hódnota „%(value)s“ ma korektny format (HH:MM[:ss[.uuuuuu]]), ale je "
+"njepłaćiwy čas."
 
 msgid "Time"
-msgstr "Hora"
+msgstr "Čas"
 
 msgid "URL"
 msgstr "URL"
 
 msgid "Raw binary data"
-msgstr "Datos de binarios brutos"
+msgstr "Hrube binarne daty"
 
 #, python-format
 msgid "“%(value)s” is not a valid UUID."
-msgstr ""
+msgstr "„%(value)s“ płaćiwy UUID njeje."
 
 msgid "Universally unique identifier"
-msgstr ""
+msgstr "Uniwerselnje jónkróćny identifikator"
 
 msgid "File"
-msgstr "Archivo"
+msgstr "Dataja"
 
 msgid "Image"
-msgstr "Imagen"
+msgstr "Wobraz"
 
 msgid "A JSON object"
-msgstr ""
+msgstr "JSON-objekt"
 
 msgid "Value must be valid JSON."
-msgstr ""
+msgstr "Hódnota dyrbi płaćiwy JSON być."
 
 #, python-format
-msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr "La instancia del %(model)s con %(field)s %(value)r no existe."
+msgid "%(model)s instance with %(field)s %(value)r is not a valid choice."
+msgstr "Instanca %(model)s z %(field)s %(value)r płaćiwa wólba njeje."
 
 msgid "Foreign Key (type determined by related field)"
-msgstr "Llave foránea (tipo determinado por el campo relacionado)"
+msgstr "Cuzy kluč (typ so přez wotpowědne polo postaja)"
 
 msgid "One-to-one relationship"
-msgstr "Relación uno-a-uno"
+msgstr "Poćah jedyn jedyn"
 
 #, python-format
 msgid "%(from)s-%(to)s relationship"
-msgstr ""
+msgstr "Poćah %(from)s-%(to)s"
 
 #, python-format
 msgid "%(from)s-%(to)s relationships"
-msgstr ""
+msgstr "Poćahi %(from)s-%(to)s"
 
 msgid "Many-to-many relationship"
-msgstr "Relación muchos-a-muchos"
+msgstr "Poćah wjele wjele"
 
 #. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the
-#. label
+#. characters will prevent the default label_suffix to be appended to
+#. the label
 msgid ":?.!"
 msgstr ":?.!"
 
 msgid "This field is required."
-msgstr "Este campo es obligatorio."
+msgstr "Tute polo je trěbne."
 
 msgid "Enter a whole number."
-msgstr "Ingrese un número entero."
+msgstr "Zapodajće cyłu ličbu."
 
 msgid "Enter a valid date."
-msgstr "Ingrese una fecha válida."
+msgstr "Zapodajće płaćiwy datum."
 
 msgid "Enter a valid time."
-msgstr "Ingrese una hora válida."
+msgstr "Zapodajće płaćiwy čas."
 
 msgid "Enter a valid date/time."
-msgstr "Ingrese una fecha/hora válida."
+msgstr "Zapodajće płaćiwy datum/čas."
 
 msgid "Enter a valid duration."
-msgstr "Ingrese una duración válida."
+msgstr "Zapodajće płaćiwe traće."
 
 #, python-brace-format
 msgid "The number of days must be between {min_days} and {max_days}."
-msgstr ""
+msgstr "Ličba dnjow dyrbi mjez {min_days} a {max_days} być."
 
 msgid "No file was submitted. Check the encoding type on the form."
-msgstr ""
-"No se ha enviado ningún fichero. Compruebe el tipo de codificación en el "
-"formulario."
+msgstr "Žana dataja je so pósłała. Přepruwujće kodowanski typ we formularje."
 
 msgid "No file was submitted."
-msgstr "No se ha enviado ningún fichero."
+msgstr "Žana dataja je so pósłała."
 
 msgid "The submitted file is empty."
-msgstr "El fichero enviado está vacío."
+msgstr "Pósłana dataja je prózdna."
 
 #, python-format
 msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
 msgid_plural ""
 "Ensure this filename has at most %(max)d characters (it has %(length)d)."
 msgstr[0] ""
-"Asegúrese de que este nombre de archivo tenga como máximo %(max)d carácter "
-"(tiene %(length)d)."
+"Zawěsćće, zo tute datajowe mjeno ma maksimalnje %(max)d znamješko (ma "
+"%(length)d)."
 msgstr[1] ""
-"Asegúrese de que este nombre de archivo tenga como máximo %(max)d caracteres "
-"(tiene %(length)d)."
+"Zawěsćće, zo tute datajowe mjeno ma maksimalnje %(max)d znamješce (ma "
+"%(length)d)."
+msgstr[2] ""
+"Zawěsćće, zo tute datajowe mjeno ma maksimalnje %(max)d znamješka (ma "
+"%(length)d)."
+msgstr[3] ""
+"Zawěsćće, zo tute datajowe mjeno ma maksimalnje %(max)d znamješkow (ma "
+"%(length)d)."
 
 msgid "Please either submit a file or check the clear checkbox, not both."
 msgstr ""
-"Por favor envíe un fichero o marque la casilla de limpiar, pero no ambos."
+"Prošu zapodajće dataju abo stajće hóčku do kontrolneho kašćika, nic wobě."
 
 msgid ""
 "Upload a valid image. The file you uploaded was either not an image or a "
 "corrupted image."
 msgstr ""
-"Envíe una imagen válida. El fichero que ha enviado no era una imagen o se "
-"trataba de una imagen corrupta."
+"Nahrajće płaćiwy wobraz. Dataja, kotruž sće nahrał, pak njebě wobraz pak bě "
+"wobškodźeny wobraz. "
 
 #, python-format
 msgid "Select a valid choice. %(value)s is not one of the available choices."
 msgstr ""
-"Escoja una opción válida. %(value)s no es una de las opciones disponibles."
+"Wubjerće płaćiwu wolensku móžnosć.  %(value)s žana k dispoziciji stejacych "
+"wolenskich móžnosćow njeje. "
 
 msgid "Enter a list of values."
-msgstr "Ingrese una lista de valores."
+msgstr "Zapodajće lisćinu hódnotow."
 
 msgid "Enter a complete value."
-msgstr "Ingrese un valor completo."
+msgstr "Zapodajće dospołnu hódnotu."
 
 msgid "Enter a valid UUID."
-msgstr "Ingrese un UUID válido."
+msgstr "Zapodajće płaćiwy UUID."
 
 msgid "Enter a valid JSON."
-msgstr ""
+msgstr "Zapodajće płaćiwy JSON."
 
 #. Translators: This is the default suffix added to form field labels
 msgid ":"
@@ -732,92 +817,122 @@ msgstr ":"
 
 #, python-format
 msgid "(Hidden field %(name)s) %(error)s"
-msgstr "(Campo oculto %(name)s) *%(error)s"
-
-msgid "ManagementForm data is missing or has been tampered with"
-msgstr "Los datos de ManagementForm faltan o han sido manipulados"
+msgstr "(Schowane polo field %(name)s) %(error)s"
 
 #, python-format
-msgid "Please submit %d or fewer forms."
-msgid_plural "Please submit %d or fewer forms."
-msgstr[0] "Por favor, envíe %d o menos formularios."
-msgstr[1] "Por favor, envíe %d o menos formularios."
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+"Daty ManagementForm faluja abo su skepsane. Falowace pola: %(field_names)s. "
+"Móžeće zmylkowu rozprawu spisać, jeli problem dale eksistuje."
 
 #, python-format
-msgid "Please submit %d or more forms."
-msgid_plural "Please submit %d or more forms."
-msgstr[0] "Por favor, envíe %d o mas formularios."
-msgstr[1] "Por favor, envíe %d o mas formularios."
+msgid "Please submit at most %(num)d form."
+msgid_plural "Please submit at most %(num)d forms."
+msgstr[0] "Prošu wotposćelće maksimalnje %(num)d formular."
+msgstr[1] "Prošu wotposćelće maksimalnje %(num)d formularaj."
+msgstr[2] "Prošu wotposćelće maksimalnje %(num)d formulary."
+msgstr[3] "Prošu wotposćelće maksimalnje %(num)d formularow."
+
+#, python-format
+msgid "Please submit at least %(num)d form."
+msgid_plural "Please submit at least %(num)d forms."
+msgstr[0] "Prošu zapodajće znajmjeńša %(num)d formu."
+msgstr[1] "Prošu zapodajće znajmjeńša %(num)d formje."
+msgstr[2] "Prošu zapodajće znajmjeńša %(num)d formy."
+msgstr[3] "Prošu zapodajće znajmjeńša %(num)d formow."
 
 msgid "Order"
-msgstr "Orden"
+msgstr "Porjad"
 
 msgid "Delete"
-msgstr "Eliminar"
+msgstr "Zhašeć"
 
 #, python-format
 msgid "Please correct the duplicate data for %(field)s."
-msgstr "Por favor, corrija el dato duplicado para %(field)s."
+msgstr "Prošu porjedźće dwójne daty za %(field)s."
 
 #, python-format
 msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr ""
-"Por favor corrija el dato duplicado para %(field)s, este debe ser único."
+msgstr "Prošu porjedźće dwójne daty za %(field)s, kotrež dyrbja jónkróćne być."
 
 #, python-format
 msgid ""
 "Please correct the duplicate data for %(field_name)s which must be unique "
 "for the %(lookup)s in %(date_field)s."
 msgstr ""
-"Por favor corrija los datos duplicados para %(field_name)s este debe ser "
-"único para %(lookup)s en %(date_field)s."
+"Prošu porjedźće dwójne daty za %(field_name)s, kotrež dyrbja za %(lookup)s w "
+"%(date_field)s jónkróćne być."
 
 msgid "Please correct the duplicate values below."
-msgstr "Por favor, corrija los valores duplicados abajo."
+msgstr "Prošu porjedźće slědowace dwójne hódnoty."
 
 msgid "The inline value did not match the parent instance."
-msgstr ""
+msgstr "Hódnota inline nadrjadowanej instancy njewotpowěduje."
 
 msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr "Escoja una opción válida. Esa opción no está entre las disponibles."
+msgstr ""
+"Wubjerće płaćiwu wolensku móžnosć. Tuta wolenska móžnosć jedna z k "
+"dispoziciji stejacych wolenskich móžnosćow njeje."
 
 #, python-format
 msgid "“%(pk)s” is not a valid value."
-msgstr ""
+msgstr "\"%(pk)s\" płaćiwa hódnota njeje."
 
 #, python-format
 msgid ""
 "%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
 "may be ambiguous or it may not exist."
 msgstr ""
+"%(datetime)s njeda so w časowym pasmje %(current_timezone)s interpretować; "
+"je snano dwuzmyslny abo njeeksistuje."
 
 msgid "Clear"
-msgstr "Limpiar"
+msgstr "Zhašeć"
 
 msgid "Currently"
-msgstr "Actualmente"
+msgstr "Tuchwilu"
 
 msgid "Change"
-msgstr "Cambiar"
+msgstr "Změnić"
 
 msgid "Unknown"
-msgstr "Desconocido"
+msgstr "Njeznaty"
 
 msgid "Yes"
-msgstr "Sí"
+msgstr "Haj"
 
 msgid "No"
-msgstr "No"
+msgstr "Ně"
+
+msgctxt "Task"
+msgid "Ready"
+msgstr "Hotowy"
+
+msgctxt "Task"
+msgid "Running"
+msgstr "Běži"
+
+msgctxt "Task"
+msgid "Failed"
+msgstr "Njeje so poradźiło"
+
+msgctxt "Task"
+msgid "Successful"
+msgstr "Wuspěšny"
 
 #. Translators: Please do not add spaces around commas.
 msgid "yes,no,maybe"
-msgstr "sí,no,quizás"
+msgstr "haj,ně,snano"
 
 #, python-format
 msgid "%(size)d byte"
 msgid_plural "%(size)d bytes"
-msgstr[0] "%(size)d byte"
-msgstr[1] "%(size)d bytes"
+msgstr[0] "%(size)d bajt"
+msgstr[1] "%(size)d bajtaj"
+msgstr[2] "%(size)d bajty"
+msgstr[3] "%(size)d bajtow"
 
 #, python-format
 msgid "%s KB"
@@ -840,140 +955,140 @@ msgid "%s PB"
 msgstr "%s PB"
 
 msgid "p.m."
-msgstr "p.m."
+msgstr "popołdnju"
 
 msgid "a.m."
-msgstr "a.m."
+msgstr "dopołdnja"
 
 msgid "PM"
-msgstr "PM"
+msgstr "popołdnju"
 
 msgid "AM"
-msgstr "AM"
+msgstr "dopołdnja"
 
 msgid "midnight"
-msgstr "medianoche"
+msgstr "połnoc"
 
 msgid "noon"
-msgstr "mediodía"
+msgstr "připołdnjo"
 
 msgid "Monday"
-msgstr "Lunes"
+msgstr "Póndźela"
 
 msgid "Tuesday"
-msgstr "Martes"
+msgstr "Wutora"
 
 msgid "Wednesday"
-msgstr "Miércoles"
+msgstr "Srjeda"
 
 msgid "Thursday"
-msgstr "Jueves"
+msgstr "Štwórtk"
 
 msgid "Friday"
-msgstr "Viernes"
+msgstr "Pjatk"
 
 msgid "Saturday"
-msgstr "Sábado"
+msgstr "Sobota"
 
 msgid "Sunday"
-msgstr "Domingo"
+msgstr "Njedźela"
 
 msgid "Mon"
-msgstr "Lun"
+msgstr "Pón"
 
 msgid "Tue"
-msgstr "Mar"
+msgstr "Wut"
 
 msgid "Wed"
-msgstr "Mié"
+msgstr "Srj"
 
 msgid "Thu"
-msgstr "Jue"
+msgstr "Štw"
 
 msgid "Fri"
-msgstr "Vie"
+msgstr "Pja"
 
 msgid "Sat"
-msgstr "Sáb"
+msgstr "Sob"
 
 msgid "Sun"
-msgstr "Dom"
+msgstr "Nje"
 
 msgid "January"
-msgstr "Enero"
+msgstr "Januar"
 
 msgid "February"
-msgstr "Febrero"
+msgstr "Februar"
 
 msgid "March"
-msgstr "Marzo"
+msgstr "Měrc"
 
 msgid "April"
-msgstr "Abril"
+msgstr "Apryl"
 
 msgid "May"
-msgstr "Mayo"
+msgstr "Meja"
 
 msgid "June"
-msgstr "Junio"
+msgstr "Junij"
 
 msgid "July"
-msgstr "Julio"
+msgstr "Julij"
 
 msgid "August"
-msgstr "Agosto"
+msgstr "Awgust"
 
 msgid "September"
-msgstr "Septiembre"
+msgstr "September"
 
 msgid "October"
-msgstr "Octubre"
+msgstr "Oktober"
 
 msgid "November"
-msgstr "Noviembre"
+msgstr "Nowember"
 
 msgid "December"
-msgstr "Diciembre"
+msgstr "December"
 
 msgid "jan"
-msgstr "ene"
+msgstr "jan."
 
 msgid "feb"
-msgstr "feb"
+msgstr "feb."
 
 msgid "mar"
-msgstr "mar"
+msgstr "měr."
 
 msgid "apr"
-msgstr "abr"
+msgstr "apr."
 
 msgid "may"
-msgstr "may"
+msgstr "mej."
 
 msgid "jun"
-msgstr "jun"
+msgstr "jun."
 
 msgid "jul"
-msgstr "jul"
+msgstr "jul."
 
 msgid "aug"
-msgstr "ago"
+msgstr "awg."
 
 msgid "sep"
-msgstr "sep"
+msgstr "sep."
 
 msgid "oct"
-msgstr "oct"
+msgstr "okt."
 
 msgid "nov"
-msgstr "nov"
+msgstr "now."
 
 msgid "dec"
-msgstr "dic"
+msgstr "dec."
 
 msgctxt "abbrev. month"
 msgid "Jan."
-msgstr "Ene."
+msgstr "Jan."
 
 msgctxt "abbrev. month"
 msgid "Feb."
@@ -981,278 +1096,308 @@ msgstr "Feb."
 
 msgctxt "abbrev. month"
 msgid "March"
-msgstr "Marzo"
+msgstr "Měrc"
 
 msgctxt "abbrev. month"
 msgid "April"
-msgstr "Abril"
+msgstr "Apryl"
 
 msgctxt "abbrev. month"
 msgid "May"
-msgstr "Mayo"
+msgstr "Meja"
 
 msgctxt "abbrev. month"
 msgid "June"
-msgstr "Junio"
+msgstr "Junij"
 
 msgctxt "abbrev. month"
 msgid "July"
-msgstr "Julio"
+msgstr "Julij"
 
 msgctxt "abbrev. month"
 msgid "Aug."
-msgstr "Ago."
+msgstr "Awg."
 
 msgctxt "abbrev. month"
 msgid "Sept."
-msgstr "Sep."
+msgstr "Sept."
 
 msgctxt "abbrev. month"
 msgid "Oct."
-msgstr "Oct."
+msgstr "Okt."
 
 msgctxt "abbrev. month"
 msgid "Nov."
-msgstr "Nov."
+msgstr "Now."
 
 msgctxt "abbrev. month"
 msgid "Dec."
-msgstr "Dic."
+msgstr "Dec."
 
 msgctxt "alt. month"
 msgid "January"
-msgstr "Enero"
+msgstr "Januar"
 
 msgctxt "alt. month"
 msgid "February"
-msgstr "Febrero"
+msgstr "Februar"
 
 msgctxt "alt. month"
 msgid "March"
-msgstr "Marzo"
+msgstr "Měrc"
 
 msgctxt "alt. month"
 msgid "April"
-msgstr "Abril"
+msgstr "Apryl"
 
 msgctxt "alt. month"
 msgid "May"
-msgstr "Mayo"
+msgstr "Meja"
 
 msgctxt "alt. month"
 msgid "June"
-msgstr "Junio"
+msgstr "Junij"
 
 msgctxt "alt. month"
 msgid "July"
-msgstr "Julio"
+msgstr "Julij"
 
 msgctxt "alt. month"
 msgid "August"
-msgstr "Agosto"
+msgstr "Awgust"
 
 msgctxt "alt. month"
 msgid "September"
-msgstr "Septiembre"
+msgstr "September"
 
 msgctxt "alt. month"
 msgid "October"
-msgstr "Octubre"
+msgstr "Oktober"
 
 msgctxt "alt. month"
 msgid "November"
-msgstr "Noviembre"
+msgstr "Nowember"
 
 msgctxt "alt. month"
 msgid "December"
-msgstr "Diciembre"
+msgstr "December"
 
 msgid "This is not a valid IPv6 address."
-msgstr "Esta no es una dirección IPv6 válida."
+msgstr "To płaćiwa IPv6-adresa njeje."
 
 #, python-format
 msgctxt "String to return when truncating text"
 msgid "%(truncated_text)s…"
-msgstr ""
+msgstr "%(truncated_text)s…"
 
 msgid "or"
-msgstr "o"
+msgstr "abo"
 
 #. Translators: This string is used as a separator between list elements
 msgid ", "
-msgstr ","
+msgstr ", "
 
 #, python-format
-msgid "%d year"
-msgid_plural "%d years"
-msgstr[0] "%d año"
-msgstr[1] "%d años"
+msgid "%(num)d year"
+msgid_plural "%(num)d years"
+msgstr[0] "%(num)d lěto"
+msgstr[1] "%(num)dlěće"
+msgstr[2] "%(num)d lěta"
+msgstr[3] "%(num)d lět"
 
 #, python-format
-msgid "%d month"
-msgid_plural "%d months"
-msgstr[0] "%d mes"
-msgstr[1] "%d meses"
+msgid "%(num)d month"
+msgid_plural "%(num)d months"
+msgstr[0] "%(num)d měsac"
+msgstr[1] "%(num)d měsacaj"
+msgstr[2] "%(num)d měsacy"
+msgstr[3] "%(num)d měsacow"
 
 #, python-format
-msgid "%d week"
-msgid_plural "%d weeks"
-msgstr[0] "%d semana"
-msgstr[1] "%d semanas"
+msgid "%(num)d week"
+msgid_plural "%(num)d weeks"
+msgstr[0] "%(num)d tydźeń"
+msgstr[1] "%(num)d njedźeli"
+msgstr[2] "%(num)d njedźele"
+msgstr[3] "%(num)d njedźel"
 
 #, python-format
-msgid "%d day"
-msgid_plural "%d days"
-msgstr[0] "%d día"
-msgstr[1] "%d días"
+msgid "%(num)d day"
+msgid_plural "%(num)d days"
+msgstr[0] "%(num)d dźeń"
+msgstr[1] "%(num)d dnjej"
+msgstr[2] "%(num)d dny"
+msgstr[3] "%(num)d dnjow"
 
 #, python-format
-msgid "%d hour"
-msgid_plural "%d hours"
-msgstr[0] "%d hora"
-msgstr[1] "%d horas"
+msgid "%(num)d hour"
+msgid_plural "%(num)d hours"
+msgstr[0] "%(num)d hodźina"
+msgstr[1] "%(num)d hodźinje"
+msgstr[2] "%(num)d hodźiny"
+msgstr[3] "%(num)d hodźin"
 
 #, python-format
-msgid "%d minute"
-msgid_plural "%d minutes"
-msgstr[0] "%d minuto"
-msgstr[1] "%d minutos"
+msgid "%(num)d minute"
+msgid_plural "%(num)d minutes"
+msgstr[0] "%(num)d mjeńšina"
+msgstr[1] "%(num)d mjeńšinje"
+msgstr[2] "%(num)d mjeńšiny"
+msgstr[3] "%(num)d mjeńšin"
 
 msgid "Forbidden"
-msgstr "Prohibido"
+msgstr "Zakazany"
 
 msgid "CSRF verification failed. Request aborted."
-msgstr "Verificación CSRF fallida. Solicitud abortada."
+msgstr "CSRF-přepruwowanje je so nimokuliło.  Naprašowanje je so přetorhnyło."
 
 msgid ""
 "You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your Web browser, but none was sent. This header is "
+"header” to be sent by your web browser, but none was sent. This header is "
 "required for security reasons, to ensure that your browser is not being "
 "hijacked by third parties."
 msgstr ""
+"Widźiće tutu zdźělenku, dokelž tute HTTPS-sydło \"Referer header\" trjeba, "
+"kotryž so ma na waš webwobhladowak pósłać, ale žadyn njeje so pósłał. Tutón "
+"header je z wěstotnych přičinow trěbny, zo by so zawěsćiło, zo waš "
+"wobhladowak so wot třećich njekapruje."
 
 msgid ""
 "If you have configured your browser to disable “Referer” headers, please re-"
 "enable them, at least for this site, or for HTTPS connections, or for “same-"
 "origin” requests."
 msgstr ""
+"Jei sće swój wobhladowak tak konfigurował, zo su hłowy „Referer“ "
+"znjemóžnjene, zmóžńće je, znajmjeńša za tute sydło abo za HTTPS-zwiski abo "
+"za naprašowanja „sameorigin“."
 
 msgid ""
 "If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
 "including the “Referrer-Policy: no-referrer” header, please remove them. The "
 "CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a rel=\"noreferrer"
-"\" …> for links to third-party sites."
+"If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
 msgstr ""
+"Jeli značku  wužiwaće abo hłowu „Referrer-Policy: no-referrer“ zapřijimaće, "
+"wotstrońće je prošu. CSRF-škit trjeba hłowu „Referer“ , zo by striktnu "
+"kontrolu referer přewjedźe. Jeli so wo priwatnosć staraće, wužiwajće "
+"alternatiwy kaž za wotkazy k sydłam třećich."
 
 msgid ""
 "You are seeing this message because this site requires a CSRF cookie when "
 "submitting forms. This cookie is required for security reasons, to ensure "
 "that your browser is not being hijacked by third parties."
 msgstr ""
-"Estás viendo este mensaje porqué esta web requiere una cookie CSRF cuando se "
-"envían formularios. Esta cookie se necesita por razones de seguridad, para "
-"asegurar que tu navegador no ha sido comprometido por terceras partes."
+"Widźiće tutu zdźělenku, dokelž tute sydło CSRF-plack trjeba, hdyž so "
+"formulary wotesyłaja. Tutón plack je z přičinow wěstoty trěbny, zo by so waš "
+"wobhladowak wot třećich njekapruje."
 
 msgid ""
 "If you have configured your browser to disable cookies, please re-enable "
 "them, at least for this site, or for “same-origin” requests."
 msgstr ""
+"Jeli sće swój wobhladowak tak konfigurował, zo su placki znjemóžnjene, "
+"zmóžńće je zaso, znajmjeńša za tute sydło abo za naprašowanja „same-origin“."
 
 msgid "More information is available with DEBUG=True."
-msgstr "Se puede ver más información si se establece DEBUG=True."
+msgstr "Z DEBUG=True su dalše informacije k dispoziciji."
 
 msgid "No year specified"
-msgstr "No se ha indicado el año"
+msgstr "Žane lěto podate"
 
 msgid "Date out of range"
-msgstr ""
+msgstr "Datum zwonka wobłuka"
 
 msgid "No month specified"
-msgstr "No se ha indicado el mes"
+msgstr "Žadyn měsac podaty"
 
 msgid "No day specified"
-msgstr "No se ha indicado el día"
+msgstr "Žadyn dźeń podaty"
 
 msgid "No week specified"
-msgstr "No se ha indicado la semana"
+msgstr "Žadyn tydźeń podaty"
 
 #, python-format
 msgid "No %(verbose_name_plural)s available"
-msgstr "No %(verbose_name_plural)s disponibles"
+msgstr "Žadyn %(verbose_name_plural)s k dispoziciji njeje"
 
 #, python-format
 msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
 msgstr ""
-"Los futuros %(verbose_name_plural)s no están disponibles porque "
-"%(class_name)s.allow_future es Falso."
+"Přichodowe %(verbose_name_plural)s k dispoziciji njejsu, dokelž hódnota "
+"%(class_name)s.allow_future je False."
 
 #, python-format
 msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
 msgstr ""
+"Njepłaćiwy „%(format)s“ za datumowy znamješkowy rjaćazk „%(datestr)s“ podaty"
 
 #, python-format
 msgid "No %(verbose_name)s found matching the query"
-msgstr "No se encontró ningún %(verbose_name)s coincidente con la consulta"
+msgstr "Žane %(verbose_name)s namakane, kotrež naprašowanju wotpowěduje"
 
 msgid "Page is not “last”, nor can it be converted to an int."
-msgstr ""
+msgstr "Strona „last“ njeje, ani njeda so do int konwertować."
 
 #, python-format
 msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "Página inválida (%(page_number)s): %(message)s"
+msgstr "Njepłaćiwa strona (%(page_number)s): %(message)s"
 
 #, python-format
 msgid "Empty list and “%(class_name)s.allow_empty” is False."
-msgstr ""
+msgstr "Prózdna lisćina a „%(class_name)s.allow_empty“ je False."
 
 msgid "Directory indexes are not allowed here."
-msgstr "Los índices de directorio no están permitidos."
+msgstr "Zapisowe indeksy tu dowolone njejsu."
 
 #, python-format
 msgid "“%(path)s” does not exist"
-msgstr ""
+msgstr "„%(path)s“ njeeksistuje"
 
 #, python-format
 msgid "Index of %(directory)s"
-msgstr "Índice de %(directory)s"
+msgstr "Indeks %(directory)s"
 
-msgid "Django: the Web framework for perfectionists with deadlines."
-msgstr ""
+msgid "The install worked successfully! Congratulations!"
+msgstr "Instalacija bě wuspěšna! Zbožopřeće!"
 
 #, python-format
 msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
-
-msgid "The install worked successfully! Congratulations!"
-msgstr ""
+"Čitajće <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">wersijowe informacije</a> za Django "
+"%(version)s"
 
 #, python-format
 msgid ""
 "You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" rel=\"noopener"
-"\">DEBUG=True</a> is in your settings file and you have not configured any "
-"URLs."
+"%(version)s/ref/settings/#debug\" target=\"_blank\" "
+"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
+"configured any URLs."
 msgstr ""
+"Widźiće tutu stronu, dokelž <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" "
+"rel=\"noopener\">DEBUG=True</a> je we wašej dataji nastajenjow a njejsće URL "
+"skonfigurował."
 
 msgid "Django Documentation"
-msgstr ""
+msgstr "Dokumentacija Django"
 
 msgid "Topics, references, &amp; how-to’s"
-msgstr ""
+msgstr "Temy, referency a nawody"
 
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "Nawod: Naprašowanske nałoženje"
 
 msgid "Get started with Django"
-msgstr ""
+msgstr "Prěnje kroki z Django"
 
 msgid "Django Community"
-msgstr ""
+msgstr "Zhromadźenstwo Django"
 
 msgid "Connect, get help, or contribute"
-msgstr ""
+msgstr "Zwjazać, pomoc wobstarać abo přinošować"
